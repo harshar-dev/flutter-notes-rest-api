@@ -1,0 +1,7 @@
+# Backend
+backend/node_modules/
+backend/.env
+
+# Flutter
+notes_app/build/
+notes_app/.dart_tool/
